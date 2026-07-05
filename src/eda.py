@@ -1,7 +1,6 @@
 from pathlib import Path
 
 import matplotlib.pyplot as plt
-import pandas as pd
 import seaborn as sns
 
 from src.data import load_dataset, TARGET_COL
