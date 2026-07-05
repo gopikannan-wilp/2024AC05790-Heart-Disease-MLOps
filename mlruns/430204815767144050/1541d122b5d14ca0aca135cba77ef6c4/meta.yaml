@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/GG0091/Desktop/WILP/MLOPS/mlops_heart_disease_assignment/mlruns/430204815767144050/1541d122b5d14ca0aca135cba77ef6c4/artifacts
+end_time: 1783208905648
+entry_point_name: ''
+experiment_id: '430204815767144050'
+lifecycle_stage: active
+run_id: 1541d122b5d14ca0aca135cba77ef6c4
+run_name: logistic_regression
+run_uuid: 1541d122b5d14ca0aca135cba77ef6c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783208902146
+status: 3
+tags: []
+user_id: GG0091
