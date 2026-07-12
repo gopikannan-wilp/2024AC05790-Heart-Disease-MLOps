@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/GG0091/Desktop/WILP/MLOPS/mlops_heart_disease_assignment/mlruns/430204815767144050/e28b6b5a4fb94f7085066636810fc9c0/artifacts
+end_time: 1783819208152
+entry_point_name: ''
+experiment_id: '430204815767144050'
+lifecycle_stage: active
+run_id: e28b6b5a4fb94f7085066636810fc9c0
+run_name: random_forest
+run_uuid: e28b6b5a4fb94f7085066636810fc9c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783819206005
+status: 3
+tags: []
+user_id: GG0091
